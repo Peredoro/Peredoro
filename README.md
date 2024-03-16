@@ -21,12 +21,14 @@ Estou atualmente aprendendo sobre tecnologias e programação, participei de boo
 
 ##
 
-<a href="https://github.com/Peredoro/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Peredoro&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
-</a>
-<a href="https://github.com/Peredoro">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peredoro&hide_progress=true&theme=radical" alt="Top Langs">
-</a>
+<div style="display: flex; justify-content: space-between;">
+    <a href="https://github.com/Peredoro/github-readme-stats" style="flex: 1;">
+        <img style="max-width: 100%; height: auto; display: block; margin: 0 auto;" src="https://github-readme-stats.vercel.app/api?username=Peredoro&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
+    </a>
+    <a href="https://github.com/Peredoro" style="flex: 1;">
+        <img style="max-width: 100%; height: auto; display: block; margin: 0 auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peredoro&hide_progress=true&theme=radical" alt="Top Langs">
+    </a>
+</div>
 
 ### Projetos
 
