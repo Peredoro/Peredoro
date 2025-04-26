@@ -31,13 +31,6 @@ Estou atualmente aprendendo sobre tecnologias e programação, participei de boo
 ### Projetos
 
 - [Banco Digital](https://github.com/Peredoro/ApiBancoVitual): Projeto desenvolvido para meios avaliatorios, nele eu crio uma API de um banco digital com as seguintes funções: Listar contas, criar contas, deletar contas, depositar, sacar, transferir, ver saldos e ver extrato.
- 
-- [Pokedex](https://github.com/Peredoro/js-developer-pokedex): Pokedex desenvolvida com JavaScript feito durante um bootcamp da DIO, nela fazemos contato com a PokeAPI, com listagem de diversos pokemons fazendo o contato com json e organizando o CSS e HTML para uma visualização agradavel.
-  
-- [Piano online](https://github.com/Peredoro/piano-game): Piano desenvolvido com JavaScript basico e CSS basico, feito apenas com intuito de testar conhecimento.
-
-
-
 
 
 
